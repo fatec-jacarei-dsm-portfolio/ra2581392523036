@@ -1,87 +1,19 @@
-# 💻 Portfólio — Victor Coutinho De Lima Martins (RA2581392523036)
+# Portfólio de Projetos - Fatec Jacareí
 
-Um portfólio pessoal com foco em **desenvolvimento de software**, unindo visual artístico inspirado em *Obras de Van Gogh* com uma referencia moderna de tecnologia.
-
----
-
-## 🚀 Sobre o projeto
-
-Esse projeto é um site de portfólio responsivo criado pra apresentar:
-
-* Skills e ferramentas
-* Projetos desenvolvidos
-* Informações pessoais
-* Contatos e redes sociais
-
-A ideia foi misturar **arte + código**, trazendo uma identidade visual diferente do padrão de desenvolvedores e demonstrando o foco em experiencia do usuário.
+**Aluno:** Victor Coutinho de Lima Martins
+**Curso:** Desenvolvimento de Software Multiplataforma  
+**Turma:** Segundo semestre - 2025
 
 ---
 
-## 🎨 Conceito visual
+**Portfólio Online**
 
-O design segue uma linha de:
-
-* 🌑 Dark mode dominante
-* 🎨 Elementos inspirados em arte clássica
-* 💻 Referências diretas ao mundo dev (código, layout limpo, grids)
-* ✨ Interações suaves (hover + smooth scroll)
+🔗 [Acesse o Portfólio]https://fatec-jacarei-dsm-portfolio.github.io/ra2581392523036/
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+**Vídeos de Apresentação**
 
-* HTML5
-* CSS3
-* Google Fonts
-* Font Awesome
-* Devicon
-
----
-
-## 📁 Estrutura do projeto
-
-```
-📦 repositório
- ┣ 📂 docs
- ┃ ┣ 📂 assets
- ┃ ┃ ┗📜 imagens (logos, background, icons)
- ┃ ┣ 📜 index.html
- ┃ ┗ 📜 style.css
- ┗ 📜 README.md
-```
-
----
-
-## ⚙️ Funcionalidades
-
-* ✅ Navegação
-* ✅ Layout
-* ✅ Grid de projetos com efeito hover
-* ✅ Menu com navegação por seções
-* ✅ Informações de contato
-
----
-
-## 🧠 Seções do site
-
-* **Wellcome** → Define a identidade do portifólio
-* **Skills** → Tecnologias e ferramentas
-* **Work** → Projetos (grid interativo)
-* **About** → Sobre o autor
-* **Footer** → Direitos e infos
-
----
-
-## 📸 Preview
-
-<p align="center">
-  <img src="docs/assets/SitePreview.png" alt="Preview do portifólio" width="600"/>
-</p>
-
----
-
-## 👨‍💻 Autor
-
-Victor Lima - Desenvolvedor Full Stack em Formação
-
----
+🎤 2DSM - [Vídeo](LINK_VIDEO_2DSM)  
+🎤 4DSM - [Vídeo](LINK_VIDEO_4DSM)  
+🎤 6DSM - [Vídeo](LINK_VIDEO_6DSM)
