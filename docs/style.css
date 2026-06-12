@@ -395,13 +395,14 @@ padding: 50px 40px 50px 40px;
   padding-bottom: 100px;
   background: #151515;
   color: white;
-  
+  display: flex;
+  justify-content: space-between;
 }
 
 .about {
   display: block;
   letter-spacing: 2px;
-  
+  width: 30%;
 }
 
 
@@ -416,7 +417,6 @@ padding: 50px 40px 50px 40px;
 }
 
 .social-icon {
-
   font-size: 200%;
   padding: 0 20px 0 0;
 }
@@ -456,3 +456,105 @@ footer {
 }
 
 /*end of footer*/
+/* ===== PORTFOLIO REQUIREMENTS ===== */
+
+#container-4{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-between;
+    gap:40px;
+}
+
+.about{
+    flex:1;
+}
+
+
+
+.info-block h4{
+    margin-top:20px;
+    margin-bottom:10px;
+}
+
+.info-block p{
+    margin-top:0;
+    line-height:1.6;
+}
+
+/* ===== MODAL ===== */
+
+.modal{
+    display:none;
+    position:fixed;
+    z-index:9999;
+    left:0;
+    top:0;
+    width:100%;
+    height:100%;
+    background:rgba(0,0,0,0.8);
+    justify-content:center;
+    align-items:center;
+}
+
+.modal-content{
+    background:#F4F4F4;
+    color:#151515;
+    width:90%;
+    max-width:700px;
+    padding:30px;
+    border-radius:8px;
+    position:relative;
+    max-height:80vh;
+    overflow-y:auto;
+}
+
+.modal-content h2{
+    margin-top:0;
+}
+
+.close{
+    position:absolute;
+    right:20px;
+    top:15px;
+    font-size:32px;
+    cursor:pointer;
+    font-weight:bold;
+}
+
+.close:hover{
+    opacity:0.7;
+}
+
+#modalRepo{
+    display:inline-block;
+    margin-top:20px;
+    padding:12px 20px;
+    background:#151515;
+    color:white;
+    text-decoration:none;
+    border-radius:5px;
+}
+
+#modalRepo:hover{
+    opacity:0.85;
+}
+
+/* RESPONSIVO */
+
+@media(max-width:900px){
+
+    #container-4{
+        display:block;
+    }
+
+    .about,
+    #container-6,
+    .follow{
+        width:100%;
+    }
+}
+
+a .social-icon {
+    text-decoration: none;
+    color: #15151500;
+}
